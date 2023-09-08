@@ -140,6 +140,9 @@ bindsym Print exec scrot -e 'mv $f ~/Pictures/screenshots/'
 bindsym $mod+Print exec scrot -u -e 'mv $f ~/Pictures/screenshots/'
 # bindsym $mod+Shift+Print exec alacritty --command "scrot -s -e 'mv \$f ~/Pictures/screenshots/'"
 
+# language
+exec --no-startup-id setxkbmap -layout us,ge -option 'grp:alt_shift_toggle'
+
 # vi keybindings
 set $vi_left h
 set $vi_down j
