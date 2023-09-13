@@ -10,9 +10,6 @@ Welcome to my i3 Arch Linux configuration repository! Here, you'll find my perso
 
 - **Alacritty Terminal Emulator:** Alacritty is a fast, GPU-accelerated terminal emulator. My configuration adds a touch of style and functionality.
 
-- **Beautiful Colors:** I've carefully selected a beautiful color scheme to make your desktop environment visually pleasing and easy on the eyes.
-
-- **Emojis and Fonts:** Emojis and custom fonts are used throughout the configuration to add a touch of personality and flair to your workspace. 😎
 ## Installation
 
 1. Clone this repository to your home directory:
@@ -25,11 +22,5 @@ Welcome to my i3 Arch Linux configuration repository! Here, you'll find my perso
 
 **Feel free to customize any part of these configurations to better suit your needs and preferences. You can modify colors, keybindings, fonts, and more in the respective configuration files.**
 
-# Credits
-This configuration was inspired by and adapted from various sources and contributors in the i3 community. Special thanks to:
-
 # License
 This repository is open-source and available under the MIT License. Feel free to use and modify it as you see fit.
-
-Enjoy your beautifully configured i3 Arch Linux setup! If you have any questions or suggestions, please don't hesitate to reach out. 🚀
-
