@@ -33,6 +33,3 @@ This repository is open-source and available under the MIT License. Feel free to
 
 Enjoy your beautifully configured i3 Arch Linux setup! If you have any questions or suggestions, please don't hesitate to reach out. 🚀
 
-Make sure to replace `"yourusername"` with your actual GitHub username or the relevant repository URL.
-
-You can also add more sections or information as needed to make your README.md more informative and personalized.
