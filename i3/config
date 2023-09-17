@@ -3,11 +3,10 @@
 set $mod Mod4
 
 #default keyboard repeat is too slow for me
-exec xset r rate 190 35
+exec xset r rate 190 50
 #AUTOSTART STUFF
 exec_always --no-startup-id feh --bg-scale ~/Downloads/wallhaven-1p398w_1920x1080.png
 exec --no-startup-id ~/.config/i3/autostart.sh
-exec_always --no-startup-id dunst -config ~/.config/dunst/dunstrc
 #Font for window titles.
 font pango:Nimbus Mono PS
 #Colors
